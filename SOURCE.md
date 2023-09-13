@@ -56,10 +56,10 @@ SMALLER SUB HEAD
 
 LINK 1
 
-`Lonely Planet`
+` Planet`
 `http://www.lonelyplanet.com/saudi-arabia/riyadh`
 
 LINK 2
 
-`Wikipedia`
+`Wikipedia`Lonely
 `http://en.wikipedia.org/wiki/Riyadh`
